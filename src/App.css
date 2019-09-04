@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color:maroon;
+}
+h1{
+  font-style: italic; 
+  color: whitesmoke;
+}
+p{
+  font-synthesis: inherit;
+  font-display: initial;
+  font-style:italic;
+  color:salmon;
+}
